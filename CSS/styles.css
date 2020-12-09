@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body {
+  background-color: gray;
+}
+
+ul {
+  width: 80%;
+  margin:0 auto;
+}
+
+li img {
+  width: 100%;
+  height: auto;
+}
